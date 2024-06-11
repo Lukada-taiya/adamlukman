@@ -166,7 +166,7 @@ const projects = [
     ],
     image: faculty,
     repo: 'https://github.com/Lukada-taiya/FacultyMIS',
-    demo: 'https://shaqdeff.github.io/KomiKult/',
+    demo: 'https://facultymis.azurewebsites.net/',
   },
   {
     id: 'project-2',
@@ -189,7 +189,7 @@ const projects = [
     ],
     image: eventsmgr,
     repo: 'https://github.com/Lukada-taiya/events-mgr',
-    demo: 'https://github.com/Lukada-taiya/events-mgr',
+    demo: 'https://events-mgr.vercel.app/',
   },
   {
     id: 'project-3',
