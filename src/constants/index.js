@@ -24,7 +24,8 @@ import {
   innorik,
   faculty,
   banana,
-  inventory
+  inventory,
+  frenzy
 } from '../assets';
 
 export const navLinks = [
@@ -169,6 +170,28 @@ const projects = [
     demo: 'https://facultymis.azurewebsites.net/',
   },
   {
+    id: 'project-4',
+    name: 'Frenzy',
+    description: 'A movie service to find information about all your favourite movies',
+    tags: [
+      {
+        name: 'react',
+        color: 'blue-text-gradient',
+      },
+      {
+        name: 'css',
+        color: 'green-text-gradient',
+      },
+      {
+        name: 'javascript',
+        color: 'pink-text-gradient',
+      },
+    ],
+    image: frenzy,
+    repo: 'https://github.com/Lukada-taiya/Frenzy.git',
+    demo: 'https://frenzy-six.vercel.app/',
+  },
+  {
     id: 'project-2',
     name: 'Events Manager',
     description:
@@ -211,7 +234,7 @@ const projects = [
     ],
     image: inventory,
     repo: 'https://github.com/Lukada-taiya/InventoryMS',
-    demo: 'https://github.com/Lukada-taiya/InventoryMS',
+    demo: 'https://inventory-ms-eta.vercel.app/',
   },
   {
     id: 'project-4',

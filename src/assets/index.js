@@ -48,6 +48,7 @@ import faculty from './projects/faculty_mis.png';
 import inventory from './projects/inventory.png';
 import banana from './projects/banana.png'; 
 import eventsmgr from './projects/eventsmgr.png';  
+import frenzy from './projects/frenzy.png'
 
 export {
   bwmap,
@@ -93,5 +94,6 @@ export {
   eventsmgr, 
   banana,
   inventory,
-  faculty,   
+  faculty, 
+  frenzy  
 };
